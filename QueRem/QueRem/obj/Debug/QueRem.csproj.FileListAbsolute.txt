@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Shweta\QueRem\QueRem\bin\Debug\QueRem.exe.config
+C:\Users\Admin\Desktop\Shweta\QueRem\QueRem\bin\Debug\QueRem.exe
+C:\Users\Admin\Desktop\Shweta\QueRem\QueRem\bin\Debug\QueRem.pdb
+C:\Users\Admin\Desktop\Shweta\QueRem\QueRem\obj\Debug\QueRem.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Shweta\QueRem\QueRem\obj\Debug\QueRem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Shweta\QueRem\QueRem\obj\Debug\QueRem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Shweta\QueRem\QueRem\obj\Debug\QueRem.exe
+C:\Users\Admin\Desktop\Shweta\QueRem\QueRem\obj\Debug\QueRem.pdb

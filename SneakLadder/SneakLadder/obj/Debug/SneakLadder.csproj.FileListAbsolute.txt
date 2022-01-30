@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Shweta\SneakLadder\SneakLadder\bin\Debug\SneakLadder.exe.config
+C:\Users\Admin\Desktop\Shweta\SneakLadder\SneakLadder\bin\Debug\SneakLadder.exe
+C:\Users\Admin\Desktop\Shweta\SneakLadder\SneakLadder\bin\Debug\SneakLadder.pdb
+C:\Users\Admin\Desktop\Shweta\SneakLadder\SneakLadder\obj\Debug\SneakLadder.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Shweta\SneakLadder\SneakLadder\obj\Debug\SneakLadder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Shweta\SneakLadder\SneakLadder\obj\Debug\SneakLadder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Shweta\SneakLadder\SneakLadder\obj\Debug\SneakLadder.exe
+C:\Users\Admin\Desktop\Shweta\SneakLadder\SneakLadder\obj\Debug\SneakLadder.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8c8915a2-aa36-4d76-917c-899766158fae": {
+      "ProjectGuid": "8c8915a2-aa36-4d76-917c-899766158fae",
+      "DisplayName": "AddressBook",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
